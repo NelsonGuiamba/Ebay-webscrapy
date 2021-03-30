@@ -12,9 +12,12 @@
 <br>
 <p> To use downloaded pages edit local to true and html to a string that contains the html text
 </p>
-</p>
+
 <h2>Requeriments</h2>
 <ul>
 <li>Install requests</li>
 <li>Install BeautifulSoup </li>
 </ul>
+<p>
+The main file is already configured to ebay.com and create an csv file with all colleted data
+</p>
