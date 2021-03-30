@@ -1,4 +1,4 @@
-# E-commerce-webscrapy
+# Ebay-webscrapy
 
 <h1> Webscraper for E-commerce. </h1>
 <h2>How to use</h2>
