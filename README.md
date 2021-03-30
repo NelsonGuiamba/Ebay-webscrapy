@@ -20,4 +20,5 @@
 </ul>
 <p>
 The main file is already configured to ebay.com and create an csv file with all colleted data
+If you want to get ebay data just edit param item (already set as iphone 9
 </p>
